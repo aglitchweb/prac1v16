@@ -1,0 +1,17 @@
+{
+  "created": "20261118_145820",
+  "archive_sha256": "c82058452963d991fff7174f8c0cbfd60a7bb9cdeba138c708b9e62c03690632",
+  "files": {
+    "reception\\report_1.csv": "9f3a1df0ac59b6440e611b25d83bff9ec7663974554d5769615d8f4093fc90f8",
+    "reception\\report_3.csv": "ac3442c53ee9ec71336ec1bdfafd68b5455108f9eb0bad22ea31f50cf691304c",
+    "reception\\report_4.csv": "263a48d54a6a2aea61e20ca28d963a6d9ee949ee1ff2c2d0ad0817cdab20cef9",
+    "restaurant\\report_1.csv": "2870ed960f081340f450780a905176d29c4344bdd562a615138130b6651d87e8",
+    "restaurant\\report_2.csv": "61a0750a88fcddb0eb91bc509e2f191e4e097d2c37a5ecf3461868ec0b924b14",
+    "restaurant\\report_3.csv": "880bd3f33ee5d31e1e2fefa6a65018bb4fb397f5f86d1cd940a4a5618205436f",
+    "restaurant\\report_4.csv": "20017a3beff1647a5c615666b7f5bf411ed67b961efcbec76ac8390e990fc2f3",
+    "rooms\\report_1.csv": "082fb860cbc2c2beccb8a1ed90b518706f8f123f6fa943fc847826d7bc63fba8",
+    "rooms\\report_2.csv": "5ccd14cac0559a79d887933763047f035f5542b24999d26f34a6ed56537ba05d",
+    "rooms\\report_3.csv": "18e3af54c1a9a5fc4b1fa358b026f670d60d1c63e41424ee9a06784d07093ff0",
+    "rooms\\report_4.csv": "280d585e58edbdd43af1cbaf463c54b7e8d12e6832138c7988d385f8088dcb0f"
+  }
+}
